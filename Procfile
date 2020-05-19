@@ -1,2 +1,2 @@
-web: python Email_final_model.py runserver
-worker: python Email_final_model.py celery run
+web: python final model.ipynb runserver
+worker: python final model.ipynb celery run
